@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEATHER INFO</title>
+    <link rel="stylesheet" href="weather.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="current-info">
+
+            <div class="date-container">
+                <div class="time" id="time">
+                    12:30 <span id="am-pm">PM</span>
+                </div>
+                <div class="date1" id="date1">
+                    Monday, 25 May
+                </div>
+
+                <div class="others" id="current-weather-items">
+                   
+                 <!---   <div class="weather-item">
+                        <div>Humidity</div>
+                        <div id="humidity">92.5%</div>
+                    </div>
+                    <div class="weather-item">
+                        <div>Pressure</div>
+                        <div id="pressure">134</div>
+                    </div>
+                    <div class="weather-item">
+                        <div>Wind Speed</div>
+                        <div id="speed">332</div>
+                    </div>
+                
+                    <div class="weather-item">
+                        <div>Sunrise</div>
+                        <div id="sunrise">06:10 AM</div>
+                    </div>
+                    <div class="weather-item">
+                        <div>Sunset</div>
+                        <div id="sunset">05:35 PM</div>
+                    </div> 
+                    <div class="weather-item">
+                        <div> <a href="./forecast.html">5 Days Weather Forecast</a></div> 
+                    </div>
+                -->
+                </div>
+            </div>
+
+    
+    <div class="app-main">
+        <div class="searchInputBox">
+            <input type="text" id="input-box" class="input-box" placeholder="Enter city name..." autocomplete="off">
+        </div>
+
+        <div class="weather-body">
+            <div class="location-details">
+                <div class="city" id="city">Allahabad, IN</div>
+                <div class="date" id="date">10 November 2022</div>
+            </div>
+
+            <div class="weather-status" id="weather-status">
+                <div class="temp" id="temp">34&deg;C</div>
+                <div class="min-max" id="min-max">32&deg;C (min) / 34&deg;C (max)</div>
+                <div class="weather" id="weather">Clear</div>
+                <div class="img" id="img">
+                <!--<div  class="img"id="img"><img src="http://openweathermap.org/img/wn/01d.png" ></div>
+                -->
+            </div>
+        </div>
+    </div>
+    
+   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    
+    <script src="weather.js"></script>
+</body>
+</html>
