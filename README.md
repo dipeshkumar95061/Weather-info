@@ -1,3 +1,5 @@
+# Weather Info
+
 ## Weather Info 🌦️
 
 A simple and user-friendly web application to get real-time weather updates for any city across the globe.
@@ -31,10 +33,10 @@ https://weather4me.netlify.app/
 1. Clone the repository
    git clone https://github.com/dipeshkumar95061/Weather-info.git
 
-2. Navigate to the project folder
+3. Navigate to the project folder
    cd Weather-info
 
-3. Open index.html in your browser
+5. Open index.html in your browser
 
 ## 📡 API Setup
 
@@ -46,5 +48,5 @@ Replace the placeholder in script.js with your key:
 ## 👨‍💻 Author
 
 Dipesh Kumar
-GitHub: dipeshkumar95061
+GitHub: https://github.com/dipeshkumar95061
 
