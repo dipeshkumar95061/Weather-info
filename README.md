@@ -13,9 +13,9 @@ Built using HTML, CSS, and JavaScript, this project fetches weather data from an
 
 ## 🛠️ Technologies Used
 
-HTML5 – Structure
-CSS3 – Styling
-JavaScript (Vanilla JS) – Logic & API integration
+HTML5 – Structure  
+CSS3 – Styling  
+JavaScript (Vanilla JS) – Logic & API integration  
 OpenWeatherMap API – Weather Data
 
 ## Demo
