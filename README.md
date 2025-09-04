@@ -35,13 +35,13 @@ https://weather4me.netlify.app/
 3. Navigate to the project folder
    `cd Weather-info`
 
-5. Open index.html in your browser
+5. Open `index.html` in your browser
 
 ## 📡 API Setup
 
-This project uses OpenWeatherMap API.
-Create a free account on OpenWeatherMap
-Get your API key
+This project uses OpenWeatherMap API.  
+Create a free account on OpenWeatherMap  
+Get your API key  
 Replace the placeholder in script.js with your key:
 
 ## 👨‍💻 Author
