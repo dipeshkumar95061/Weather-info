@@ -30,10 +30,10 @@ https://weather4me.netlify.app/
 ## Installation & Usage
 
 1. Clone the repository
-   `git clone https://github.com/dipeshkumar95061/Weather-info.git
+   `git clone https://github.com/dipeshkumar95061/Weather-info.git`
 
 3. Navigate to the project folder
-   `cd Weather-info
+   `cd Weather-info`
 
 5. Open index.html in your browser
 
@@ -46,6 +46,6 @@ Replace the placeholder in script.js with your key:
 
 ## 👨‍💻 Author
 
-Dipesh Kumar
+Dipesh Kumar  
 GitHub: https://github.com/dipeshkumar95061
 
